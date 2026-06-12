@@ -1,2 +1,2 @@
 # python_practice
-what practice 
+whtever samll things i learnt
